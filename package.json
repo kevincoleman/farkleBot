@@ -1,0 +1,19 @@
+{
+  "name": "farkleBot",
+  "version": "0.0.1",
+  "description": "A bot that can (probably) beat you at Farkle.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:kevincoleman/farkleBot.git"
+  },
+  "author": "kevin.n.coleman@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kevincoleman/farkleBot/issues"
+  },
+  "homepage": "https://github.com/kevincoleman/farkleBot"
+}
