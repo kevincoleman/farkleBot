@@ -1,4 +1,8 @@
 // local includes
-var game = new require('./lib/farkle.js');
+var DicePool = require('./lib/dicePool.js');
 
-console.log(game);
+var kevinsPool = new DicePool;
+
+console.log(kevinsPool);
+kevinsPool.rollDice();
+console.log(kevinsPool.rolls);
